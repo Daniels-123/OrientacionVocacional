@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.Inicio"/>
+      <point      
+        x = "471"      
+        y = "8337"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.Profesiones"/>
+      <point      
+        x = "653"      
+        y = "3174"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.Fullpantalla"/>
+      <point      
+        x = "492"      
+        y = "1480"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.ahorcadobomb"/>
+      <point      
+        x = "6864"      
+        y = "3098"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.ahorcadocant"/>
+      <point      
+        x = "3818"      
+        y = "12402"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.FullscreenBombero"/>
+      <point      
+        x = "5164"      
+        y = "3083"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.fullscreen_veterinario"/>
+      <point      
+        x = "2992"      
+        y = "24"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.FullscreenMedico"/>
+      <point      
+        x = "4767"      
+        y = "5339"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.FullscreenVeterinario"/>
+      <point      
+        x = "6149"      
+        y = "667"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.inicio"/>
+      <point      
+        x = "2473"      
+        y = "552"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.ahorcadopoli"/>
+      <point      
+        x = "5831"      
+        y = "7518"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.ahorcadomedi"/>
+      <point      
+        x = "6808"      
+        y = "5446"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.Login"/>
+      <point      
+        x = "1678"      
+        y = "471"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.FullscreenPolicia"/>
+      <point      
+        x = "4055"      
+        y = "7548"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.ahorcadovete"/>
+      <point      
+        x = "8247"      
+        y = "810"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.FullscreenIngeniero"/>
+      <point      
+        x = "3137"      
+        y = "9857"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.ahorcadoingen"/>
+      <point      
+        x = "4736"      
+        y = "9945"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.orientacionvocacional.FullscreenCantante"/>
+      <point      
+        x = "2575"      
+        y = "12402"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

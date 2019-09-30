@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrientacionVocacional</string>
+    <string name="cl">Hello World</string>
+    <string name="genero">Gender</string>
+    <string name="nina">Girl</string>
+    <string name="nino">Boy</string>
+    <string name="boton">Continue</string>
+    <string name="nombre">Your Name...</string>
+    <string name="medico">Would you like to be a doctor when you grow up? Doctors are responsible for curing people , when someone feels bad , the doctor investigates what happens to the person and seeks ways to cure through medicine , surgery or other procedures. They also give advice to people on how to be healthy , with regard to diet , sleep , rest and exercise necessary. Doctors working in hospitals have long working hours , often at night and during the weekends. </string>
+    <string name="idioma">Languaje</string>
+    <string name="bombero"> Would you like to be a fireman ?? , fireman are responsible to be alert to emergency calls , controlling and extinguishing fires that may occur in our home , town, forests , protecting the lives of both people and the animals , carrying out rescue operations . Fireman should be strong , healthy and brave must be able to make quick decisions and teamwork. His agility , strength and coordination stand out from them. Increasingly fireman need training , fighters should learn the different ways to put the fire out how : using axes, extinguishers , ladders and other tools. Also should know how to administer first aid when they encounter a serious hurt. It is a job that gives satisfaction to those who do by calling to help others.</string>
+    <string name="regresarlista">Back to list</string>
+    <string name="titulo">VOCATION CHILDREN</string>
+    <string name="policia">Would you like to be when you grow police ? the police is responsible to serve and protect people , trying to stop people causing damage when hurt or rob people , there are several types of police in which we can ask for help , transit which are responsible for traffic in your city faster but beware, if people are driving at a certain speed that is not set, it will make a fine, the police found in your neighborhood providing security to all citizens also the cops who catch people who do bad things must go to prison for a certain period of time, depending on the severity was committed .</string>
+    <string name="jugar">PLAY</string>
+    <string name="veterinario">If you love animals and science, you might want to be a veterinarian. Veterinary care for animals who are sick and injured. They can heal, operate and medicines to animals , when an animal is sick , the veterinarian must find the cause of the diseases affecting the animals , since it can not explain your symptoms.   Veterinarians also teach animal owners to care for and feed them in an appropriate manner . Most veterinarians are engaged in caring for young animals, such as dogs or cats, but there are other veterinarians who specialize in larger animals such as cows or horses . Veterinarians can work in clinics , zoo , farms or laboratories in order to give welfare to animals in need . </string>
+    <string name="ingeniero">Would you like to be an engineer when you grow up? Engineers usually focused on solving the problems that arise in society, to be an engineer must devote years to study for math , science The functions you have an engineer is to research, development , design, construction </string>
+    <string name="cantante">The singers are famous artists known for their melodious voices in which they express their ideas, stories, rhythms and sounds with his voice. The singer is given importance by showing his talent against society, the singers also is rated as can sing different genres can be childish, reggaeton, salsa, vallenato among others, the role of the singer can be both soloist as well as being part of bands or musical groups.</string>
+</resources>

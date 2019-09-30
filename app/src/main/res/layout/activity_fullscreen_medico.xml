@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.orientacionvocacional.FullscreenMedico">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/regresarlista"
+        android:id="@+id/button4"
+        android:layout_gravity="left|top"
+        android:clickable="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/jugar"
+        android:id="@+id/button5"
+        android:layout_gravity="right|top" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:id="@+id/scrollView2"
+        android:layout_gravity="bottom|center_horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="134dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/medico"
+            android:id="@+id/textView3"
+            android:layout_gravity="right|top"
+
+            style="@style/fondoblanco" />
+    </ScrollView>
+
+    <VideoView
+        android:layout_width="wrap_content"
+        android:layout_height="237dp"
+        android:id="@+id/videoView2"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="50dp" />
+
+</FrameLayout>

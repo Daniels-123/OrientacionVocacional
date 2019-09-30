@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Orientacion Vocacional</string>
+
+    <string name="title_activity_fullpantalla">Fullpantalla</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="str_en">English</string>
+    <string name="str_es">Spanish</string>
+
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+    </string-array>
+
+
+    <string name="title_activity_fullscreen_medico">Medico</string>
+    <string name="medico">¿Te gustaria ser un médico cuando crezcas ? Los médicos son los encargados de curar a las personas, cuando alguien se siente mal, el médico investiga qué le pasa a la persona y busca la forma de curarla mediante medicinas, cirugías u otros procedimientos. Ellos también dan consejos a las personas, acerca de cómo estar saludables, con respecto a las dietas , el sueño, el descanso y el ejercicio necesario. Los médicos que trabajan en los hospitales tienen largas horas de trabajo, muchas veces en las noches y durante los fines de semana.</string>
+    <string name="bombero">Te gustaria ser un bombero, los bomberos son los encargados de estar atentos a las llamadas de emergencia, controlando y extinguiendo los incendios que se pueden presentar en nuestro hogar,cuidad,bosques, protegiendo las vidas tanto de las personas como la de los animales, llevando a cabo acciones de rescate. Los bomberos deben ser  fuertes , saludables y   valientes deben ser capaces de tomar decisiones rápidas y de trabajar en equipo. Su agilidad, fortaleza y coordinación se destacan de ellos. Cada vez más los bomberos necesitan capacitarse ,Los bomberos deben aprender las diferentes formas de apagar el fuego cómo: usar hachas, extinguidores, escaleras y otras herramientas.También deben saber administrar los primeros auxilios cuando se encuentran con un herido grave. Es un trabajo que da satisfacciones a quienes lo hacen por vocación de ayudar a los demás. </string>
+    <string name="cantante">Los cantantes son artistas famosos reconocidos por sus melodiosas voces en donde  expresan sus ideas,  las historias, los ritmos y sonidos mediante su voz. Al cantante se le da importancia mediante la muestra de su talento frente a la sociedad, los cantantes también tiene una clasificación ya que puede cantar diferentes géneros puede ser infantil, reggaeton,salsa,vallenato entre otros,el papel del cantante puede ser tanto de solista como también ser parte de bandas o de grupos musicales.</string>
+    <string name="ingeniero">¿Te gustaria ser un ingeniero cuando crezcas?. Los ingenieros  por lo general  se dedica a resolver los problemas que se presentan en la sociedad, para poder ser un ingeniero hay que dedicarse a estudiar durante años matemáticas, ciencias naturales. Las funciones que debe tener un ingeniero es investigar, desarrollo, diseño, construcción.</string>
+    <string name="veterinario">Si te gustan los animales y la ciencia, tal vez quieras ser un veterinario. Los veterinarios cuidan los animales que están enfermos y heridos. Ellos pueden curar, operar y dar medicinas a los animales,cuando un animal está enfermo, el veterinario debe buscar las causa de las enfermedades que padece los  animales, ya que éste no puede explicar sus síntomas.  Los veterinarios también enseñan a los dueños de los animales a cuidarlos y a alimentarlos de una manera adecuada. La mayoría de los veterinarios se dedican a cuidar animales pequeños,como perros o gatos, pero hay otros veterinarios que se especializan en animales más grandes como vacas o caballos. Los veterinarios pueden trabajar en clínicas, zoológico, granjas o laboratorios para así dar bienestar a los animales que lo necesitan.</string>
+    <string name="policia">¿Te gustaria ser policia cuando crezcas? el policía es el encargado de servir y proteger a las personas, tratan de detener a las personas que causen  daño cuando hieren o roban  a las personas, hay varios tipos de policías en el cual podemos pedir ayuda, los de tránsito que son los encargados de que el tráfico en tu ciudad sea más rápido  pero ten cuidado,si las  las personas van conduciendo con cierta velocidad que no está establecida, se les hará una multa, los policías que se encuentran en tu barrio brindando la seguridad a todos los ciudadanos también  en los policías que atrapan a las personas que hacen cosas malas deben ir a prisión por un cierto periodo de tiempo, dependiendo de la severidad que se haya cometido.</string>
+    <string name="title_activity_fullscreen_veterinario">Veterinario</string>
+
+    <string name="nino">Niño</string>
+    <string name="nina">Niña</string>
+    <string name="boton">Continuar</string>
+    <string name="nombre">Tu nombre...</string>
+    <string name="genero">Genero</string>
+    <string name="idioma">Idioma</string>
+    <string name="titulo">VOCACIÓN NIÑOS</string>
+    <string name="jugar">JUGAR</string>
+    <string name="title_activity_fullscreen_bombero">Bombero</string>
+    <string name="regresarlista">regresar a la lista</string>
+    <string name="title_activity_fullscreen_policia">Policia</string>
+
+    <string name="title_activity_fullscreen_cantante">Cantante</string>
+    <string name="lista_vacia">Sin Datos</string>
+    <string name="title_activity_fullscreen_ingeniero">Ingeniero</string>/>
+
+</resources>
